@@ -3,7 +3,7 @@
 
 > Materi: Queue
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## Nawang Ilmi Adzani - 140810200014
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
